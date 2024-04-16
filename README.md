@@ -4,7 +4,7 @@
 
 
 👨🏽‍💻 Intereses personales;
-✨ Durante mi tiempo libre soy una apasionada del running y suelo participar en medias maratones y maratones.
+Me encontras en 42 Barcelona
 
 
 👤Conecta conmigo:
