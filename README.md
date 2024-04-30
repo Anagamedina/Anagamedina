@@ -4,8 +4,7 @@
 
 
 👨🏽‍💻 Intereses personales;
-Me encontras en 42 Barcelona
-
+Me encontras en 42 Barcelona 24/7 🏊🏼‍♀️
 
 👤Conecta conmigo:
 🔖LinkedIn: www.linkedin.com/in/anamedinaburgos
