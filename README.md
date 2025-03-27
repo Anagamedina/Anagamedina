@@ -1,33 +1,32 @@
-# ¡Hola! 👋 Soy Ana Gabriela Medina
-![Mujer programando](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZubGVlb3RlNHhmYWQ3YmtrYXFvc3g3anl0aXdvMWtpN3YyeXo4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbDm4pTuIEQAviEBQX/giphy.gif)
+# Hi! 👋 I'm Ana Gabriela Medina
+![Woman programming](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZubGVlb3RlNHhmYWQ3YmtrYXFvc3g3anl0aXdvMWtpN3YyeXo4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbDm4pTuIEQAviEBQX/giphy.gif)
 
-
-✨ **Apasionada por la tecnología y en constante evolución.** Actualmente, profundizando mis conocimientos en **desarrollo de software** a través de **42 Barcelona**. Mi objetivo es aportar soluciones creativas y eficientes, y contribuir a proyectos innovadores.
-
----
-
-### 💻 **Mis áreas de interés:**
-- Desarrollo de **software**.
-
-### 📚 **En proceso de aprendizaje:**
-- Mejorando mis habilidades en **C** y **C++**.
-
-### 🏆 **Logros y experiencia:**
-- 🛠️ **Proyectos personales**: Desde páginas web simples hasta sistemas complejos de gestión.
-- 🎓 **42 Barcelona**: Experiencia en proyectos colaborativos y resolución de problemas reales.
-- 🎓 **IronHack**: Aprendí desarrollo **Full Stack** con **JavaScript**, **Node.js**, **React**, y **MongoDB**.
-- 💬 **Trabajo en equipo**: Me encanta colaborar, aprender y crecer junto a otros desarrolladores.
+✨ **Passionate about technology and constantly evolving.** Currently deepening my knowledge in **software development** through **42 Barcelona**. My goal is to contribute creative and efficient solutions, and work on innovative projects.
 
 ---
 
-### 📍 **Encuéntrame en:**
+### 💻 **My areas of interest:**
+- **Software** development.
+
+### 📚 **Currently learning:**
+- Improving my skills in **C** and **C++**.
+
+### 🏆 **Achievements and experience:**
+- 🛠️ **Personal projects**: From simple web pages to complex management systems.
+- 🎓 **42 Barcelona**: Experience in collaborative projects and solving real-world problems.
+- 🎓 **IronHack**: Learned **Full Stack** development with **JavaScript**, **Node.js**, **React**, and **MongoDB**.
+- 💬 **Teamwork**: I love collaborating, learning, and growing with other developers.
+
+---
+
+### 📍 **Find me at:**
 - **LinkedIn**: [www.linkedin.com/in/anamedinaburgos](https://www.linkedin.com/in/anamedinaburgos)
 - **Email**: [anaga.medina@gmail.com](mailto:anaga.medina@gmail.com)
 - **GitHub**: [github.com/ana-medina-burgos](https://github.com/ana-medina-burgos)
 
 ---
 
-### 🔧 **Lenguajes y Herramientas:**
+### 🔧 **Languages and Tools:**
 ![](https://img.shields.io/badge/-C-black?style=flat&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -38,10 +37,11 @@
 
 ---
 
-### 🤝 **Conecta conmigo:**
-Si te interesa colaborar, aprender juntos o hablar sobre tecnología, no dudes en contactarme. ¡Estoy siempre abierta a nuevos desafíos!
+### 🤝 **Let's connect:**
+If you're interested in collaborating, learning together, or talking about technology, feel free to reach out. I'm always open to new challenges!
 
 ---
+
 
 
 
