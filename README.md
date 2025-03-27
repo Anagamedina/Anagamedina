@@ -1,4 +1,5 @@
 # ¡Hola! 👋 Soy Ana Gabriela Medina
+![Mujer programando](https://media.giphy.com/media/l0K4kF70bm6JeHaDi/giphy.gif)
 
 ✨ **Apasionada por la tecnología y en constante evolución.** Actualmente, profundizando mis conocimientos en **desarrollo de software** a través de **42 Barcelona**. Mi objetivo es aportar soluciones creativas y eficientes, y contribuir a proyectos innovadores.
 
@@ -40,6 +41,7 @@
 Si te interesa colaborar, aprender juntos o hablar sobre tecnología, no dudes en contactarme. ¡Estoy siempre abierta a nuevos desafíos!
 
 ---
+
 
 
 
