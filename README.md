@@ -22,7 +22,6 @@
 ### 📍 **Find me at:**
 - **LinkedIn**: [www.linkedin.com/in/anamedinaburgos](https://www.linkedin.com/in/anamedinaburgos)
 - **Email**: [anaga.medina@gmail.com](mailto:anaga.medina@gmail.com)
-- **GitHub**: [github.com/ana-medina-burgos](https://github.com/ana-medina-burgos)
 
 ---
 
