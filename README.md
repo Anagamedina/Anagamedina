@@ -27,7 +27,7 @@
 
 ### 🔧 **Languages and Tools:**
 
-[![wakatime](https://wakatime.com/badge/user/640df229-0fc5-4d67-92ba-90084661c6d4.svg)](https://wakatime.com/@640df229-0fc5-4d67-92ba-90084661c6d4)
+<a href="https://wakatime.com/@640df229-0fc5-4d67-92ba-90084661c6d4"><img src="https://wakatime.com/badge/user/640df229-0fc5-4d67-92ba-90084661c6d4.svg" alt="Total time coded since Jul 8 2024" /></a>
 
 
 ![](https://img.shields.io/badge/-C-black?style=flat&logo=c&logoColor=white)
