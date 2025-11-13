@@ -14,17 +14,18 @@
 ### 🏆 **Achievements and experience:**
 ---
 <div align="center">
-  <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/cub3dm.png" alt="CUB3D" height="60"/> 
-  <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/netpracticem.png" alt="NETPRACTICE" height="60"/>
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png" alt="CPP" height="60"/>
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishellm.png" alt="MIMINISHELL" height="60"/>
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosophersm.png" alt="PHILOSOPHERS" height="60"/>
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png" alt="PIPEX" height="60"/>
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png" alt="PUSH_SWAP" height="60"/>
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2berootm.png" alt="BORN2BEROOT" height="60"/>
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png" alt="GET_NEXT_LINE" height="60"/>
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png" alt="FT_PRINTF" height="60"/>
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png" alt="LIBFT BADGE" height="60"/>
+  <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/cub3dm.png" alt="CUB3D" height="80"/> 
+  <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/solongm.png" alt="SOLONG" height="80"/>
+  <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/netpracticem.png" alt="NETPRACTICE" height="80"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png" alt="CPP" height="80"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishellm.png" alt="MIMINISHELL" height="80"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosophersm.png" alt="PHILOSOPHERS" height="80"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png" alt="PIPEX" height="80"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png" alt="PUSH_SWAP" height="80"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2berootm.png" alt="BORN2BEROOT" height="80"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png" alt="GET_NEXT_LINE" height="80"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png" alt="FT_PRINTF" height="80"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png" alt="LIBFT BADGE" height="80"/>
 </div>
 
 ---
