@@ -17,6 +17,30 @@
 - 🎓 **IronHack**: Learned **Full Stack** development with **JavaScript**, **Node.js**, **React**, and **MongoDB**.
 - 💬 **Teamwork**: I love collaborating, learning, and growing with other developers.
 
+
+---
+
+<div align="center">
+  <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/cub3dm.png" alt="CUB3D" height="30"/> 
+  <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/netpracticem.png" alt="NETPRACTICE" height="30"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png" alt="CPP" height="30"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishellm.png" alt="MIMINISHELL" height="30"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosophersm.png" alt="PHILOSOPHERS" height="30"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png" alt="PIPEX" height="30"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/fdfm.png" alt="FDF" height="30"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png" alt="PUSH_SWAP" height="30"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2berootm.png" alt="BORN2BEROOT" height="30"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png" alt="GET_NEXT_LINE" height="30"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png" alt="FT_PRINTF" height="30"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png" alt="LIBFT BADGE" height="30"/>
+</div>
+
+
+
+
+
+
+---
 ---
 
 ### 📍 **Find me at:**
