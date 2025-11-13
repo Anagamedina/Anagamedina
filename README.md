@@ -12,6 +12,7 @@
 - Improving my skills in **C** and **C++**.
 
 ### 🏆 **Achievements and experience:**
+---
 <div align="center">
   <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/cub3dm.png" alt="CUB3D" height="40"/> 
   <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/netpracticem.png" alt="NETPRACTICE" height="40"/>
@@ -26,6 +27,8 @@
   <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png" alt="FT_PRINTF" height="40"/>
   <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png" alt="LIBFT BADGE" height="40"/>
 </div>
+
+---
 - 🛠️ **Personal projects**: From simple web pages to complex management systems.
 - 🎓 **42 Barcelona**: Experience in collaborative projects and solving real-world problems.
 - 🎓 **IronHack**: Learned **Full Stack** development with **JavaScript**, **Node.js**, **React**, and **MongoDB**.
