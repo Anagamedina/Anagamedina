@@ -4,6 +4,7 @@
 ![Woman programming](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZubGVlb3RlNHhmYWQ3YmtrYXFvc3g3anl0aXdvMWtpN3YyeXo4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbDm4pTuIEQAviEBQX/giphy.gif)
 
 ✨ **Passionate about technology and constantly evolving.** Currently deepening my knowledge in **software development** through **42 Barcelona**. My goal is to contribute creative and efficient solutions, and work on innovative projects.
+
 ---
 
 ### 💻 **My areas of interest:**
@@ -16,28 +17,58 @@
 ---
 <div align="center">
   <a href="https://github.com/Anagamedina/Cub3D">
-  <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/cub3dm.png" alt="CUB3D" height="100"/>
-</a>
-  <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/so_longn.png" alt="SOLONG" height="100"/> 
-  <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/netpracticem.png" alt="NETPRACTICE" height="100"/>
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png" alt="CPP" height="100"/>
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishellm.png" alt="MIMINISHELL" height="100"/>
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosophersm.png" alt="PHILOSOPHERS" height="100"/>
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png" alt="PIPEX" height="100"/>
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png" alt="PUSH_SWAP" height="100"/>
+    <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/cub3dm.png" alt="CUB3D" height="100"/>
+  </a>
+  
+  <a href="https://github.com/Anagamedina/so_long_Linux">
+    <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/so_longn.png" alt="SOLONG" height="100"/>
+  </a>
+  
+  <a href="https://github.com/Anagamedina/Netpractice">
+    <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/netpracticem.png" alt="NETPRACTICE" height="100"/>
+  </a>
+  
+  <a href="https://github.com/Anagamedina/cpp_piscine_2">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png" alt="CPP" height="100"/>
+  </a>
+  
+  <a href="https://github.com/Anagamedina/Minishell">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishellm.png" alt="MIMINISHELL" height="100"/>
+  </a>
+  
+  <a href="https://github.com/Anagamedina/Philosophers">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosophersm.png" alt="PHILOSOPHERS" height="100"/>
+  </a>
+  
+  <a href="https://github.com/Anagamedina/Pipex">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png" alt="PIPEX" height="100"/>
+  </a>
+  
+  <a href="https://github.com/Anagamedina/Push_swap_42">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png" alt="PUSH_SWAP" height="100"/>
+  </a>
+  
   <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2berootm.png" alt="BORN2BEROOT" height="100"/>
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png" alt="GET_NEXT_LINE" height="100"/>
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png" alt="FT_PRINTF" height="100"/>
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png" alt="LIBFT BADGE" height="100"/>
+  
+  <a href="https://github.com/Anagamedina/get_next_line">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png" alt="GET_NEXT_LINE" height="100"/>
+  </a>
+  
+  <a href="https://github.com/Anagamedina/Printf">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png" alt="FT_PRINTF" height="100"/>
+  </a>
+  
+  <a href="https://github.com/Anagamedina/libft_bonus">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png" alt="LIBFT BADGE" height="100"/>
+  </a>
 </div>
+
 
 ---
 - 🛠️ **Personal projects**: From simple web pages to complex management systems.
 - 🎓 **42 Barcelona**: Experience in collaborative projects and solving real-world problems.
 - 🎓 **IronHack**: Learned **Full Stack** development with **JavaScript**, **Node.js**, **React**, and **MongoDB**.
 - 💬 **Teamwork**: I love collaborating, learning, and growing with other developers.
-
-
 
 ---
 
@@ -47,10 +78,6 @@
 
 ---
 
-<div align="center">
-<a href="https://wakatime.com/@640df229-0fc5-4d67-92ba-90084661c6d4"><img src="https://wakatime.com/badge/user/640df229-0fc5-4d67-92ba-90084661c6d4.svg" alt="Total time coded since Jul 8 2024" >
-</a>
-</div>
 <br>
 
 <div align="center">
