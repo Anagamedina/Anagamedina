@@ -1,8 +1,9 @@
+
 # Hi! 👋 I'm Ana Gabriela Medina
+
 ![Woman programming](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZubGVlb3RlNHhmYWQ3YmtrYXFvc3g3anl0aXdvMWtpN3YyeXo4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbDm4pTuIEQAviEBQX/giphy.gif)
 
 ✨ **Passionate about technology and constantly evolving.** Currently deepening my knowledge in **software development** through **42 Barcelona**. My goal is to contribute creative and efficient solutions, and work on innovative projects.
-
 ---
 
 ### 💻 **My areas of interest:**
@@ -14,18 +15,20 @@
 ### 🏆 **Achievements and experience:**
 ---
 <div align="center">
-  <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/cub3dm.png" alt="CUB3D" height="80"/> 
-  <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/solongm.png" alt="SOLONG" height="80"/>
-  <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/netpracticem.png" alt="NETPRACTICE" height="80"/>
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png" alt="CPP" height="80"/>
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishellm.png" alt="MIMINISHELL" height="80"/>
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosophersm.png" alt="PHILOSOPHERS" height="80"/>
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png" alt="PIPEX" height="80"/>
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png" alt="PUSH_SWAP" height="80"/>
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2berootm.png" alt="BORN2BEROOT" height="80"/>
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png" alt="GET_NEXT_LINE" height="80"/>
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png" alt="FT_PRINTF" height="80"/>
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png" alt="LIBFT BADGE" height="80"/>
+  <a href="https://github.com/Anagamedina/Cub3D">
+  <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/cub3dm.png" alt="CUB3D" height="100"/>
+</a>
+  <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/so_longn.png" alt="SOLONG" height="100"/> 
+  <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/netpracticem.png" alt="NETPRACTICE" height="100"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png" alt="CPP" height="100"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishellm.png" alt="MIMINISHELL" height="100"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosophersm.png" alt="PHILOSOPHERS" height="100"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png" alt="PIPEX" height="100"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png" alt="PUSH_SWAP" height="100"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2berootm.png" alt="BORN2BEROOT" height="100"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png" alt="GET_NEXT_LINE" height="100"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png" alt="FT_PRINTF" height="100"/>
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png" alt="LIBFT BADGE" height="100"/>
 </div>
 
 ---
@@ -44,20 +47,26 @@
 
 ---
 
-### 🔧 **Languages and Tools:**
-
 <div align="center">
 <a href="https://wakatime.com/@640df229-0fc5-4d67-92ba-90084661c6d4"><img src="https://wakatime.com/badge/user/640df229-0fc5-4d67-92ba-90084661c6d4.svg" alt="Total time coded since Jul 8 2024" >
 </a>
 </div>
+<br>
 
-![](https://img.shields.io/badge/-C-black?style=flat&logo=c&logoColor=white)
-![](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" alt="CLion" width="60" height="60"/>
+
+</div>
 
 ---
 
@@ -65,9 +74,6 @@
 If you're interested in collaborating, learning together, or talking about technology, feel free to reach out. I'm always open to new challenges!
 
 ---
-
-
-
 
 
 
