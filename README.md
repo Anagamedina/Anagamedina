@@ -108,15 +108,6 @@ Construcción de una **infraestructura multi-contenedor completamente aislada y 
   </a>
 </div>
 
----
-
-## 📈 Mi objetivo actual
-
-Busco incorporarme al sector tecnológico en posiciones donde pueda aportar valor inmediato gracias a mi madurez profesional, capacidad organizativa y sólida base técnica. Me interesan especialmente los roles de **Junior Software Developer, Cloud/SysAdmin Support o Junior Data Engineer**. 
-
-Mi meta a corto plazo es consolidarme en un equipo técnico, aportar mi experiencia en resolución de incidencias bajo presión y continuar mi especialización hacia la ingeniería de datos a gran escala.
-
----
 
 ### 📍 Conectemos:
 * **LinkedIn:** [linkedin.com/in/anamedinaburgos](https://www.linkedin.com/in/anamedinaburgos)
