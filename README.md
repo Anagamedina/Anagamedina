@@ -10,7 +10,11 @@
 
 # ¡Hola, soy Ana! 👋
 
-Te cuento un poco sobre mí: vengo del sector de la restauración, donde pasé 10 años gestionando operaciones, coordinando equipos y solucionando fuegos en entornos de mucha presión. Aunque me encantaba la parte organizativa, decidí dar un giro radical y volcar toda esa capacidad analítica en lo que de verdad me apasiona: la tecnología y los sistemas.
+# ¡Hola, soy Ana! 👋
+
+Te cuento un poco sobre mí: llevo 10 años trabajando en la gestión de operaciones, coordinando equipos y solucionando fuegos diarios en entornos de mucha presión, concretamente en una cadena de cafeterías de especialidad. Me encantaba toda la parte organizativa y de optimizar procesos, pero decidí dar un giro radical y volcar toda esa capacidad analítica en lo que de verdad me apasiona: la tecnología, la infraestructura y los sistemas.
+
+Actualmente estoy en la recta final de **42 Barcelona**. Si conoces la metodología, sabrás que aquí no hay clases ni soluciones mágicas; nos dan un problema y nos toca buscarnos la vida para resolverlo. Gracias a esto, he aprendido a programar desde los cimientos (en C y C++), a gestionar la memoria al milímetro y a entender qué pasa de verdad por debajo de un ordenador.
 
 Actualmente estoy en la recta final de **42 Barcelona**. Si conoces la metodología, sabrás que aquí no hay profesores ni soluciones mágicas; nos dan un problema y nos toca buscarnos la vida para resolverlo. Gracias a esto, he aprendido a programar desde los cimientos (en C y C++), a gestionar la memoria al milímetro y a entender qué pasa de verdad "por debajo" de un ordenador.
 
