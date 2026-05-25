@@ -99,7 +99,7 @@ Diseño y programación de **nuestro propio servidor HTTP desde cero** en C++, t
 * **El verdadero reto:** Gestionar conexiones simultáneas sin que el servidor se caiga (usando multiplexación de E/S), parsear manualmente las peticiones de los clientes y controlar los recursos para asegurar cero fugas de memoria (*leaks*). 
 * **Enfoque de usuario:** Optimizar la velocidad de respuesta para que el usuario reciba sus archivos dynamic/static de forma instantánea y robusta.
 
-### 🐳 [Inception](https://github.com/Anagamedina/Inception) (Infraestructura y Docker)
+### 🐳 [Inception](https://github.com/Anagamedina/Inception_alpine) (Infraestructura y Docker)
 Construcción de una **infraestructura multi-contenedor completamente aislada y securizada** utilizando Docker de forma nativa.
 * **El verdadero reto:** Configurar un entorno con Nginx, MariaDB y WordPress donde cada servicio corre en su propio contenedor, comunicándose a través de redes privadas virtuales y asegurando la persistencia de datos mediante volúmenes estables. Todo bajo protocolos TLS seguros.
 * **Enfoque de usuario:** Diseñar una infraestructura tolerante a fallos que proteja los datos de los usuarios y mantenga el servicio disponible 24/7.
